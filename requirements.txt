@@ -1,4 +1,8 @@
+<<<<<<< primary
+mkdocs-material==8.0.5
+=======
 
+>>>>>>> primary
 mkdocs-awesome-pages-plugin
 mkdocs-git-revision-date-localized-plugin
 mkdocs-redirects
